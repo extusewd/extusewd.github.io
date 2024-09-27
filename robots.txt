@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://extusewd.github.io/sitemap.extusewd.gz
+Sitemap: https://extusewd.github.io/app/sitemap.extusewd.gz
+Sitemap: https://extusewd.github.io/assets/sitemap.extusewd.gz
+Sitemap: https://extusewd.github.io/css/sitemap.extusewd.gz
+Sitemap: https://extusewd.github.io/data/sitemap.extusewd.gz
+Sitemap: https://extusewd.github.io/includes/sitemap.extusewd.gz
+Sitemap: https://extusewd.github.io/item/sitemap.extusewd.gz
+Sitemap: https://extusewd.github.io/src/sitemap.extusewd.gz
